@@ -111,6 +111,7 @@ Tu sitio quedará online automáticamente.
 Este proyecto es de uso privado perteneciente a **VC Traslados IGR**.  
 No se permite su distribución sin autorización.
 
+
 ---
 
 ## ✨ Autor
