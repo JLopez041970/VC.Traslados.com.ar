@@ -52,7 +52,7 @@ handleScrollAnimation(); // Activación inicial
 // ================================
 // SISTEMA DE RESEÑAS (Backend + DeviceId)
 // ================================
-const REVIEWS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwVN-12czPnpP9LT6DSio7F8NhtCborAXNyFeLbg9wo9XyPL4Qxm5qWY5BSA_TQvQeHTQ/exec";
+const REVIEWS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzsZc-hUqnijaaq_B8uSix0JcTYNp1BE4HoNLgFkdZU0W3w7OW0lMVD4bXHjpQ29i0rZQ/exec";
 
 const reviewForm = document.getElementById("reviewForm");
 const reviewsList = document.getElementById("reviewsList");
@@ -415,7 +415,7 @@ function displayReview(review) {
 // ================================
 // SISTEMA DE RESERVAS (Google Sheets)
 // ================================
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxin8lubVuD49mo7DIv-lOwTRVagUwryeURSjK4L3LmwrkkfKU1wrU6ZQkY3Dzt8lIc/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxiBeGyQwfUfdKGIYqRLgDqdQCHuzJYd_d02oolntDvRMJZSJYA68ZUeuRIqvVMLw_jvQ/exec";
 
 const reservaForm = document.getElementById("reservaForm");
 const reservaAviso = document.getElementById("reservaAviso");
